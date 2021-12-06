@@ -1,4 +1,3 @@
-//https://stackoverflow.com/questions/41741171/how-to-generate-dynamic-html-with-jquery-in-a-loop-and-a-json-with-parameters
 var apiUrl='http://localhost/nbaserver/api/default'
 $(document).ready(function () {	 
     $('#sendButton').click(function () {                
